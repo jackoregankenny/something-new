@@ -1,0 +1,15 @@
++++
+title = "CV"
+description = "My Personal CV"
+date = yyyy-mm-dd
+draft = true
+slug = ""
+project = false
+
+[taxonomies]
+categories = ["Meta"]
+tags = ["Personal", ""]
+
+[extra]
+comments = false
++++

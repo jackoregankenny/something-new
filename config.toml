@@ -23,7 +23,8 @@ year = "2021"
 keywords = "Jack O'Regan Kenny, Jack Kenny, Jack O'Regan, Mirr"
 theme_color = " #840072"
 zola386_menu = [
-  {path="/", name="Home"},
+  {path="", name="Home"},
+  {path="cv", name="CV"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
   {path="about", name="About"},
