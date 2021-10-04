@@ -1,4 +1,4 @@
-base_url = "hardcore-stonebraker-9cb4d0.netlify.app"
+base_url = "https://hardcore-stonebraker-9cb4d0.netlify.app/"
 # theme = "zola.386"
 
 default_language = "en"
@@ -13,7 +13,7 @@ build_search_index = true
 taxonomies = [
   {name="categories", rss=true},
   {name="tags", rss=true},
-]
+] 
 
 
 [extra]
@@ -23,7 +23,7 @@ year = "2021"
 keywords = "Jack O'Regan Kenny, Jack Kenny, Jack O'Regan, Mirr"
 theme_color = " #840072"
 zola386_menu = [
-  {path="", name="Home"},
+  {path="/", name="Home"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
   {path="about", name="About"},
