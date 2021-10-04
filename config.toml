@@ -24,7 +24,6 @@ keywords = "Jack O'Regan Kenny, Jack Kenny, Jack O'Regan, Mirr"
 theme_color = " #840072"
 zola386_menu = [
   {path="", name="Home"},
-  {path="cv", name="CV"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
   {path="about", name="About"},
@@ -35,10 +34,9 @@ zola386_menu = [
 # disqus = "disqus-user"
 
 ### SOCIAL MEDIA
-image = "https://raw.githubusercontent.com/lopes/zola.386/master/screenshot.png"
 twitter_user = "jackoregankenny"
 linkedin_user = "jackoregankenny"
-#github_user = "jackoregankenny"
+# github_user = "jackoregankenny"
 # gitlab_user = ""
 
 ### I18N WORDS

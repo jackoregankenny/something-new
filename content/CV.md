@@ -1,9 +1,9 @@
 +++
 title = "CV"
 description = "My Personal CV"
-date = 2021-06-24
+date = 2021-06-02
 draft = false
-slug = "CV"
+slug = "cv"
 
 [taxonomies]
 categories = ["Meta"]
