@@ -1,4 +1,4 @@
-base_url = "retro.jackoregankenny.com"
+base_url = ""
 # theme = "zola.386"
 
 default_language = "en"
