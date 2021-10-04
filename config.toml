@@ -2,8 +2,8 @@ base_url = "https://zola386.netlify.app"
 # theme = "zola.386"
 
 default_language = "en"
-title = "ZOLA.386"
-description = "A port of the BOOTSTRA.386 theme."
+title = "Jack O'Regan Kenny"
+description = "Jack O'Regan Kenny's hidden site"
 
 highlight_code = true
 compile_sass = true
@@ -17,13 +17,14 @@ taxonomies = [
 
 
 [extra]
-author = "José Lopes"
-year = "2020"
+author = "Me"
+year = "2021"
 
-keywords = "zola, theme, retro, hacking"
-theme_color = "#000084"
+keywords = "Jack O'Regan Kenny, Jack Kenny, Jack O'Regan, Mirr"
+theme_color = " #840072"
 zola386_menu = [
   {path="", name="Home"},
+  {path="cv", name="CV"},
   {path="categories", name="Categories"},
   {path="tags", name="Tags"},
   {path="about", name="About"},
@@ -35,9 +36,9 @@ zola386_menu = [
 
 ### SOCIAL MEDIA
 image = "https://raw.githubusercontent.com/lopes/zola.386/master/screenshot.png"
-twitter_user = "lopesoj"
-linkedin_user = "jlopesjr"
-github_user = "lopes"
+twitter_user = "jackoregankenny"
+linkedin_user = "jackoregankenny"
+#github_user = "jackoregankenny"
 # gitlab_user = ""
 
 ### I18N WORDS

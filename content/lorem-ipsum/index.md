@@ -1,5 +1,5 @@
 +++
-title = "Lorem Ipsum"
+title = "Index"
 description = "dolor sit amet, consectetur"
 date = 2020-05-01
 draft = false
@@ -10,14 +10,14 @@ categories = ["pellentesque"]
 tags = ["hac", "velit", "risus"]
 
 [extra]
-comments = true
+comments = false
 lang = "pt"
 image = "https://zola386.netlify.app/lorem-ipsum/crt-phosphor-dots.png"
 +++
 
 Posuere urna nec tincidunt praesent semper. Viverra mauris in aliquam sem fringilla ut morbi tincidunt. Mattis rhoncus urna neque viverra justo nec ultrices dui. Nulla pellentesque dignissim enim sit. Arcu ac tortor dignissim convallis aenean et.
 
-# Lorem ipsum
+    Lorem ipsum
 ## dolor sit amet
 ### consectetur adipiscing elit
 #### sed do eiusmod tempor incididunt
